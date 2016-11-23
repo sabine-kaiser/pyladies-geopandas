@@ -1,0 +1,2546 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.295946,
+                52.519951
+            ]
+        },
+        "properties": {
+            "title": "1",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/1",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/1\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/1",
+            "data": {
+                "id": "1",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Weihnachtsmarkt vor dem Schloss Charlottenburg",
+                "strasse": "Spandauer Damm 20 - 24",
+                "plz_ort": "14059 Berlin",
+                "veranstalter": "werbeteam berlin/Tommy Erbe\r\nTel.: 261 20 12, Fax: 261 20 22",
+                "von": "2016-11-21",
+                "bis": "2016-12-26",
+                "oeffnungszeiten": "Mo-Do 14:00-22:00\r\nFr-So 12:00-22:00\r\n25./26.12. 12:00-20:00",
+                "email": "mailto:info@werbeteam-berlin.de",
+                "w3": "www.werbeteam-berlin.de",
+                "bemerkungen": "zwischen Luisenplatz und Klausenerplatz, 24.12. geschlossen\nWeitere Informationen auf der Webseite",
+                "lat": "52,519951",
+                "lng": "13,295946"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.335511,
+                52.504886
+            ]
+        },
+        "properties": {
+            "title": "3",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/3",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/3\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/3",
+            "data": {
+                "id": "3",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "33. Weihnachtsmarkt an der Gedächtniskirche",
+                "strasse": "Breitscheidplatz ",
+                "plz_ort": "10789 Berlin",
+                "veranstalter": "Arbeitsgemeinschaft City e.V.\r\nBudapester Str. 41\r\nTel.: 262 95 92, Fax: 262 95 93\r\nSchaustellerverband Berlin e.V.\r\nwww.schaustellerverband-berlin.de",
+                "von": "2016-11-21",
+                "bis": "2017-01-01",
+                "oeffnungszeiten": "So-Do 11:00-21:00\r\nFr-Sa 11:00-22:00\r\n24.12. 11:00-14:00\r\n25./26.12. 13:00-21:00\r\n31.12. 11:00-01:00\r\n01.01. 13:00-21:00",
+                "email": "mailto:info@svbev.de",
+                "w3": "www.agcity.de",
+                "bemerkungen": "Eintritt frei\nWeitere Informationen auf der Webseite",
+                "lat": "52,504886",
+                "lng": "13,335511"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.305994,
+                52.509313
+            ]
+        },
+        "properties": {
+            "title": "5",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/5",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/5\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/5",
+            "data": {
+                "id": "5",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Weihnachtsmarkt in der Fußgängerzone Wilmersdorfer Straße",
+                "strasse": "Wilmersdorfer Straße",
+                "plz_ort": "10627 Berlin",
+                "veranstalter": "Lauenburger, A., Tel.: 0163/495 77 62",
+                "von": "2016-11-25",
+                "bis": "2016-12-29",
+                "oeffnungszeiten": "Mo-Fr 11:00-21:00\r\nSa 10:00-21:00\r\nSo 12:00-19:00\r\n24.12. 10:00-14:00\r\n25./26.12. geschlossen",
+                "email": "mailto:lauenburger-pony@gmx.de",
+                "w3": "www.wilmersdorfer-arcaden.de",
+                "bemerkungen": "  Weitere Informationen auf der Webseite",
+                "lat": "52,509313",
+                "lng": "13,305994"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.259213,
+                52.512538
+            ]
+        },
+        "properties": {
+            "title": "7",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/7",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/7\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/7",
+            "data": {
+                "id": "7",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Weihnachten in Westend",
+                "strasse": "Preußenallee",
+                "plz_ort": "14052 Berlin",
+                "veranstalter": "Family & Friends e. V.\r\nTel. und Fax: 305 55 21",
+                "von": "2016-12-17",
+                "bis": "2016-12-18",
+                "oeffnungszeiten": "11:00-20:00",
+                "email": "mailto:kontakt@family-and-friends-eV.de",
+                "w3": "www.family-and-friends-eV.de",
+                "bemerkungen": "Eintritt frei, \nWeitere Informationen auf der Webseite",
+                "lat": "52,512538",
+                "lng": "13,259213"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.27725,
+                52.48835
+            ]
+        },
+        "properties": {
+            "title": "9",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/9",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/9\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/9",
+            "data": {
+                "id": "9",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Weihnachtsmarkt Berlin-Grunewald des Johannischen Sozialwerks e. V. im St.-Michaels-Heim",
+                "strasse": "Bismarckallee 23",
+                "plz_ort": "14193 Berlin",
+                "veranstalter": "Johannisches Sozialwerk e.V.\r\nTel.: 89 68 80, Fax: 89 68 81 85",
+                "von": "2016-11-25",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "Fr 16:00-20:00\r\nSa 14:00-20:00\r\nSo 12:00-18:00",
+                "email": "",
+                "w3": "www.johannisches-sozialwerk.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,48835",
+                "lng": "13,27725"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.3287,
+                52.4874
+            ]
+        },
+        "properties": {
+            "title": "11",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/11",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/11\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/11",
+            "data": {
+                "id": "11",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Schwedischer Weihnachtsbasar",
+                "strasse": "Landhausstr. 26",
+                "plz_ort": "10717 Berlin",
+                "veranstalter": "Schwedische Victoriagemeinde\r\nTel.: 864 95 90, Fax: 86 49 59 99",
+                "von": "2016-11-26",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "Sa 10:00-19:00\r\nSo 12:00-18:00",
+                "email": "mailto:berlin@svenskakyrkan.se",
+                "w3": "www.svenskakyrkan.se",
+                "bemerkungen": "Die Lichterkönigin Lucia kommt an beiden Tagen zweimal am Nachmittag",
+                "lat": "52,4874",
+                "lng": "13,3287"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.31249,
+                52.48809
+            ]
+        },
+        "properties": {
+            "title": "13",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/13",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/13\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/13",
+            "data": {
+                "id": "13",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Dänischer Weihnachtsmarkt",
+                "strasse": "Brienner Str. 12",
+                "plz_ort": "10713 Berlin",
+                "veranstalter": "Dänische Gemeinde Berlin\r\nTel. und Fax: 873 44 30",
+                "von": "2016-11-26",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "Sa 12:00-19:00\r\nSo 12:00-18:00",
+                "email": "",
+                "w3": "www.christianskirken.de",
+                "bemerkungen": "",
+                "lat": "52,48809",
+                "lng": "13,31249"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.27483,
+                52.48543
+            ]
+        },
+        "properties": {
+            "title": "15",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/15",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/15\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/15",
+            "data": {
+                "id": "15",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Weihnachtsmarkt rund um die Grunewaldkirche",
+                "strasse": "Bismarckallee 28 B",
+                "plz_ort": "14193 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Grunewald, Kontakt: Petra Krüger, Claudia Noll\r\n, AB/Fax: 23 25 83 02",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "11:00-19:00",
+                "email": "mailto:weihnachtsmarkt@grunewaldgemeinde.de",
+                "w3": "www.grunewaldgemeinde.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,48543",
+                "lng": "13,27483"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.30807,
+                52.517122
+            ]
+        },
+        "properties": {
+            "title": "17",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/17",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/17\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/17",
+            "data": {
+                "id": "17",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Nikolausmarkt der Beschäftigungs- und Bildungsträger im Rathaus Charlottenburg",
+                "strasse": "Otto-Suhr-Allee 100",
+                "plz_ort": "10585 Berlin",
+                "veranstalter": "BA Charlottenburg-Wilmersdorf von Berlin\r\nAbt. Soziales + Gesundheit\r\nTel.: 902 91 43 04",
+                "von": "2016-11-24",
+                "bis": "2016-11-24",
+                "oeffnungszeiten": "11:00-14:00",
+                "email": "mailto:cw801003@charlottenburg-wilmersdorf.de",
+                "w3": "",
+                "bemerkungen": "",
+                "lat": "52,517122",
+                "lng": "13,30807"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.25837,
+                52.51243
+            ]
+        },
+        "properties": {
+            "title": "19",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/19",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/19\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/19",
+            "data": {
+                "id": "19",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Christmas Fair / A very British Christmas",
+                "strasse": "Preußenallee 17-19",
+                "plz_ort": "14052 Berlin",
+                "veranstalter": "St George's Church, Preußenallee 17-19, 14052 Berlin, Tel. und Fax: 304 12 80",
+                "von": "2016-12-03",
+                "bis": "2016-12-03",
+                "oeffnungszeiten": "14:30-18:00",
+                "email": "mailto:office@stgeorges.de",
+                "w3": "www.stgeorges.de",
+                "bemerkungen": "",
+                "lat": "52,51243",
+                "lng": "13,25837"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.295796,
+                52.518946
+            ]
+        },
+        "properties": {
+            "title": "21",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/21",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/21\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/21",
+            "data": {
+                "id": "21",
+                "bezirk": "Charlottenburg-Wilmersdorf",
+                "name": "Kunsthandwerklicher Weihnachtsmarkt vor dem Bröhanmuseum",
+                "strasse": "Schloßstr. 1/1 A",
+                "plz_ort": "14059 Berlin",
+                "veranstalter": "Kiezbündnis Klausenerplatz e.V.\r\nTel.: 30 82 44 95, Fax: 30 82 44 98",
+                "von": "2016-12-11",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "13:00-19:00",
+                "email": "mailto:info@klausenerplatz.de",
+                "w3": "www.klausenerplatz.de",
+                "bemerkungen": "",
+                "lat": "52,518946",
+                "lng": "13,295796"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.39731,
+                52.48965
+            ]
+        },
+        "properties": {
+            "title": "23",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/23",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/23\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/23",
+            "data": {
+                "id": "23",
+                "bezirk": "Friedrichshain-Kreuzberg",
+                "name": "Traditioneller Weihnachtsbasar im Finnland-Zentrum",
+                "strasse": "Schleiermacherstr. 24a",
+                "plz_ort": "10961 Berlin",
+                "veranstalter": "Suomi Keskus - Finnlandzentrum e. V., Schleiermacherstr. 24a, 10961 Berlin, Tel.: 781 81 89",
+                "von": "2016-11-19",
+                "bis": "2016-11-20",
+                "oeffnungszeiten": "12:00-18:00",
+                "email": "mailto:info@finnlandzentrum.de",
+                "w3": "www.finnlandzentrum.de",
+                "bemerkungen": "",
+                "lat": "52,48965",
+                "lng": "13,39731"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.39575,
+                52.49652
+            ]
+        },
+        "properties": {
+            "title": "25",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/25",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/25\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/25",
+            "data": {
+                "id": "25",
+                "bezirk": "Friedrichshain-Kreuzberg",
+                "name": "Adventlicher Nachmittag in der Passionskirche",
+                "strasse": "Marheinekeplatz 1",
+                "plz_ort": "10961 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Heilig Kreuz - Passion, Zossener Str. 65, 10961 Berlin, Tel.: 81 49 25 82 od. 691 20 07",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "14:00-17:00",
+                "email": "mailto:m.schmieder@heiligkreuzpassion.de",
+                "w3": "www.heiligkreuzpassion.de",
+                "bemerkungen": "",
+                "lat": "52,49652",
+                "lng": "13,39575"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.46609,
+                52.51766
+            ]
+        },
+        "properties": {
+            "title": "27",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/27",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/27\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/27",
+            "data": {
+                "id": "27",
+                "bezirk": "Friedrichshain-Kreuzberg",
+                "name": "11. KiezWeihnacht an der Samariterkirche/Samariterplatz",
+                "strasse": "Samariterstr. 14",
+                "plz_ort": "10247 Berlin",
+                "veranstalter": "Samariter-Galiläa-Gemeinde und Die Friedrichshainer \r\nKontakt: Steffen Belz, Eisenbahnstr. 191, 14542 Werder (Havel),    \r\nTel.: 74 77 26 01",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "13:00-20:00",
+                "email": "",
+                "w3": "www.kiezweihnacht.de",
+                "bemerkungen": "NUR an den Wochenenden",
+                "lat": "52,51766",
+                "lng": "13,46609"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.479572,
+                52.515918
+            ]
+        },
+        "properties": {
+            "title": "29",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/29",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/29\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/29",
+            "data": {
+                "id": "29",
+                "bezirk": "Lichtenberg",
+                "name": "23. Lichtenberger Lichtermarkt rund ums Rathaus Lichtenberg",
+                "strasse": "Möllendorffstr. 6",
+                "plz_ort": "10367 Berlin",
+                "veranstalter": "BA Lichtenberg\r\nFrau Räpricht\r\nTel.: 902 96 82 05",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "13:00-19:00",
+                "email": "mailto:jacqueline.raepricht@lichtenberg.berlin.de",
+                "w3": "",
+                "bemerkungen": "",
+                "lat": "52,515918",
+                "lng": "13,479572"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.52774,
+                52.48282
+            ]
+        },
+        "properties": {
+            "title": "31",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/31",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/31\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/31",
+            "data": {
+                "id": "31",
+                "bezirk": "Lichtenberg",
+                "name": "\"Die Welt zuhause in Karlshorst\" auf dem Johannes-Fest-Platz Karlshorst",
+                "strasse": "Johannes-Fest-Platz",
+                "plz_ort": "10318 Berlin",
+                "veranstalter": "iKARUS stadtteilzentrum\r\nTel.: 89 62 25 52",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "Sa 13:00-22:00\r\nSo 13:00-18:00",
+                "email": "mailto:ikarus@sozdia.de",
+                "w3": "www.ikarus.sozdia.de",
+                "bemerkungen": "",
+                "lat": "52,48282",
+                "lng": "13,52774"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.60488,
+                52.53749
+            ]
+        },
+        "properties": {
+            "title": "33",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/33",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/33\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/33",
+            "data": {
+                "id": "33",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "Weihnachtsmarkt im Marktplatz Center Hellersdorf",
+                "strasse": "Stendaler Str. 24",
+                "plz_ort": "12627 Berlin",
+                "veranstalter": "Werbegemeinschaft Marktplatz Center Hellersdorf GbR,\nTel.: 99 28 84 - 0, \r\nFax: 992 88 42 50",
+                "von": "2016-11-21",
+                "bis": "2016-12-24",
+                "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n04.12./18.12. 13:00-18:00\r\n24.12. 09:00-14:00",
+                "email": "",
+                "w3": "www.marktplatzcenter.com/",
+                "bemerkungen": "",
+                "lat": "52,53749",
+                "lng": "13,60488"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.54264,
+                52.54282
+            ]
+        },
+        "properties": {
+            "title": "35",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/35",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/35\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/35",
+            "data": {
+                "id": "35",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "Weihnachtliche Aktionen im EASTGATE Berlin",
+                "strasse": "Marzahner Promenade 1 A",
+                "plz_ort": "12679 Berlin",
+                "veranstalter": "ECE Projektmanagement GmbH & Co. KG\r\nTel.: 911 45 90, Fax: 911 45 91 11",
+                "von": "2016-11-21",
+                "bis": "2016-12-24",
+                "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n04.12./18.12. 13:00-19:00\r\n24.12. 10:00-14:00",
+                "email": "mailto:info@eastgate-berlin.de",
+                "w3": "www.eastgate-berlin.de",
+                "bemerkungen": "",
+                "lat": "52,54282",
+                "lng": "13,54264"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.604357,
+                52.537131
+            ]
+        },
+        "properties": {
+            "title": "37",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/37",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/37\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/37",
+            "data": {
+                "id": "37",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "3. Familien-Weihnachtsmarkt",
+                "strasse": "Alice-Salomon-Platz",
+                "plz_ort": "12627 Berlin",
+                "veranstalter": "Wollenschlaeger, Thilo-Harry\r\nTel.: 0163/400 05 00 und 03322/428 82 45\r\nFax: 03322/423 41 39",
+                "von": "2016-11-25",
+                "bis": "2016-12-23",
+                "oeffnungszeiten": "täglich 11:00-21:00",
+                "email": "mailto:info@wollenschlaeger-berlin.de",
+                "w3": "www.wollenschlaeger-berlin.de",
+                "bemerkungen": "",
+                "lat": "52,537131",
+                "lng": "13,604357"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.56056,
+                52.5434
+            ]
+        },
+        "properties": {
+            "title": "39",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/39",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/39\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/39",
+            "data": {
+                "id": "39",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "Adventsmarkt im Dorf Marzahn zwischen Kirche und Bezirksmuseum",
+                "strasse": "Dorfanger Alt-Marzahn",
+                "plz_ort": "12685 Berlin",
+                "veranstalter": "Evangelischer Dorfkindergarten, Hinter der Mühle 5, 12685 Berlin, Leiterin: Frau Vogel, Tel.: 85 74 86 64 - 21 (Gemeindebüro), - 31 (Kindergarten)\r\nHerr Pfarrer Ingolf Göbel\r\nTel.: 85 74 86 64 - 0, Fax: 85 74 86 64 28",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "13:00-18:00",
+                "email": "",
+                "w3": "",
+                "bemerkungen": "",
+                "lat": "52,5434",
+                "lng": "13,56056"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.581117,
+                52.507946
+            ]
+        },
+        "properties": {
+            "title": "41",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/41",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/41\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/41",
+            "data": {
+                "id": "41",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "20. Kaulsdorfer Weihnachtsmarkt - Dorfstraße, Kirchengelände und Gelände der Firma Schilkin GmbH",
+                "strasse": "Alt-Kaulsdorf 1",
+                "plz_ort": "12621 Berlin",
+                "veranstalter": "BA Marzahn-Hellersdorf und ansässige Kirchen, \r\nInteressengemeinschaft Kaulsdorf,\r\nKontakt: Gabriele Kokel, Tel.: 0177/326 32 65 und Gabriele Maria Donka (IG Kaulsdorf), \r\nTel.: 85 71 83 15                     ",
+                "von": "2016-12-03",
+                "bis": "2016-12-03",
+                "oeffnungszeiten": "13:00-20:00",
+                "email": "mailto:kontakt@vitabelle-fitness.de",
+                "w3": "www.heimatverein-marzahn.de",
+                "bemerkungen": "",
+                "lat": "52,507946",
+                "lng": "13,581117"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.570496,
+                52.565308
+            ]
+        },
+        "properties": {
+            "title": "43",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/43",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/43\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/43",
+            "data": {
+                "id": "43",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "Interkultureller Weihnachtsmarkt im Einkaufscenter \"Zu den Eichen\"",
+                "strasse": "Wittenberger Str. 80",
+                "plz_ort": "12689 Berlin",
+                "veranstalter": "Vision e. V., Alexander Reiser, Wittenberger Str. 67, 12689 Berlin, Tel.: 43 20 88 72 oder 60 92 38 05, Fax: 43 20 88 74",
+                "von": "2016-12-09",
+                "bis": "2016-12-09",
+                "oeffnungszeiten": "14:00-18:00",
+                "email": "mailto:vision-ev@gmx.de",
+                "w3": "",
+                "bemerkungen": "",
+                "lat": "52,565308",
+                "lng": "13,570496"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.554055,
+                52.54702
+            ]
+        },
+        "properties": {
+            "title": "45",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/45",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/45\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/45",
+            "data": {
+                "id": "45",
+                "bezirk": "Marzahn-Hellersdorf",
+                "name": "Feuriger Advent im Freizeitforum Marzahn",
+                "strasse": "Marzahner Promenade 55",
+                "plz_ort": "12679 Berlin",
+                "veranstalter": "Promenaden Management Marzahner Promenade (L.I.S.T. GmbH / conceptfabrik) in Zusammenarbeit mit dem Freizeitforum Marzahn und Anliegern der Marzahner Promenade",
+                "von": "2016-12-02",
+                "bis": "2016-12-02",
+                "oeffnungszeiten": "15:00-18:00",
+                "email": "mailto:m-promenade@list-gmbh.de",
+                "w3": "www.marzahnerpromenade.de",
+                "bemerkungen": "",
+                "lat": "52,54702",
+                "lng": "13,554055"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.376262,
+                52.509008
+            ]
+        },
+        "properties": {
+            "title": "47",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/47",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/47\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/47",
+            "data": {
+                "id": "47",
+                "bezirk": "Mitte",
+                "name": "Weihnachtsmarkt u. Winterwelt am Potsdamer Platz und Marlene-Dietrich-Platz",
+                "strasse": "Potsdamer Platz",
+                "plz_ort": "10785 Berlin",
+                "veranstalter": "Bergmann Eventgastronomie, Arnold Bergmann,\r\nTel.: 033439/656 43\r\nReservierung: 0177/828 53 87, Fax: 25 93 91 93\r\nreservierung@bergmannevent.de, www.bergmann-entertainment.de\r\nwww.winterwelt-berlin.de",
+                "von": "2016-11-04",
+                "bis": "2017-01-01",
+                "oeffnungszeiten": "Mo-So 10:00-22:00\r\nSchmankerl-Hütte 10:00-03:00\r\nWinterwelt: 31.10.-03.01.2016,\r\nam 15.11. und 22.11. geschlossen",
+                "email": "mailto:info@bergmannevent.de",
+                "w3": "www.bergmannevent.de",
+                "bemerkungen": "Winterwelt 04.11.2016 - 01.01.2017, Hütten und Eisbahnen bis 01.01.2017, Schmankerl-Hütte 10:00-03:00, Winterwelt am 13.11. und 20.11. geschlossen",
+                "lat": "52,509008",
+                "lng": "13,376262"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.413215,
+                52.521918
+            ]
+        },
+        "properties": {
+            "title": "49",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/49",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/49\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/49",
+            "data": {
+                "id": "49",
+                "bezirk": "Mitte",
+                "name": "Weihnachtsmarkt Alex",
+                "strasse": "Alexanderplatz 9",
+                "plz_ort": "10178 Berlin",
+                "veranstalter": "Bergmann Eventgastronomie, Arnold Bergmann,\r\nTel.: 033439/656 43\r\nReservierung: 0177/828 53 87, Fax: 25 93 91 93\r\nreservierung@bergmannevent.de\r\nwww.bergmann-entertainment.de",
+                "von": "2016-11-21",
+                "bis": "2016-12-26",
+                "oeffnungszeiten": "Mo-So 10:00-22:00\r\n24.12. 10:00-14:00",
+                "email": "mailto:info@bergmannevent.de",
+                "w3": "www.bergmannevent.de",
+                "bemerkungen": "mit Eisbahn, Eisstockbahn, Partyhaus vom Nikolaus, Wichtelhaus vor der Galeria Kaufhof",
+                "lat": "52,521918",
+                "lng": "13,413215"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.407032,
+                52.519494
+            ]
+        },
+        "properties": {
+            "title": "51",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/51",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/51\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/51",
+            "data": {
+                "id": "51",
+                "bezirk": "Mitte",
+                "name": "9. Berliner Weihnachtszeit mit der Eiswelt am Neptunbrunnen vor dem Roten Rathaus ",
+                "strasse": "Rathausstr. 15",
+                "plz_ort": "10178 Berlin",
+                "veranstalter": "Laubinger Veranstaltungsagentur\r\nTel.: 0163/481 48 40\r\nwww.laubinger.de",
+                "von": "2016-11-21",
+                "bis": "2016-12-29",
+                "oeffnungszeiten": "Mo-Fr 12:00-22:00\r\nSa-So 11:00-22:00\r\n25./26.12. 11:00-21:00",
+                "email": "mailto:info@laubinger.de",
+                "w3": "www.berlinerweihnachtszeit.de",
+                "bemerkungen": "24.12.  geschlossen",
+                "lat": "52,519494",
+                "lng": "13,407032"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.417182,
+                52.517248
+            ]
+        },
+        "properties": {
+            "title": "53",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/53",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/53\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/53",
+            "data": {
+                "id": "53",
+                "bezirk": "Mitte",
+                "name": "Wintertraum am ALEXA",
+                "strasse": "Dircksenstraße ",
+                "plz_ort": "10179 Berlin",
+                "veranstalter": "Charles Blume Vergnügungsbetriebe GmbH, 27798 Hude\r\nTel.: 04408/80 63 73,\r\nFax: 04408/80 63 74",
+                "von": "2015-11-23",
+                "bis": "2015-12-23",
+                "oeffnungszeiten": "Mo-Fr 14:00-22:00\r\nSa-So 12:00-22:00\n24.12. geschlossen\n25.12./26.12.: 14:00-22:00",
+                "email": "mailto:blume-service@t-online.de",
+                "w3": "www.blume-service.de",
+                "bemerkungen": "Freifläche zwischen ALEXA, Voltairestraße, Schicklerstraße, Dircksenstraße",
+                "lat": "52,517248",
+                "lng": "13,417182"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.39235,
+                52.513828
+            ]
+        },
+        "properties": {
+            "title": "55",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/55",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/55\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/55",
+            "data": {
+                "id": "55",
+                "bezirk": "Mitte",
+                "name": "WeihnachtsZauber Gendarmenmarkt",
+                "strasse": "Gendarmenmarkt",
+                "plz_ort": "10117 Berlin",
+                "veranstalter": "WeihnachtsZauber Gendarmenmarkt GmbH Helmut Russ und Gunda Kniep\r\nTel.: 20 91 26 32, 0172/456 22 55, \r\nFax: 20 91 26 33",
+                "von": "2016-11-21",
+                "bis": "2016-12-31",
+                "oeffnungszeiten": "täglich 11:00-22:00\r\r\n24.12./31.12. 11:00-18:00\r\n25./26.12. 11:00-22:00\r\n",
+                "email": "mailto:office@weihnachtsmarkt-berlin.de",
+                "w3": "www.weihnachtsmarkt-berlin.de",
+                "bemerkungen": "Eintritt 1 €, Mo.-Fr. 11:00-14:00 Eintritt frei (außer am 24.12., 25.12., 26.12., 31.12.), Silvesterfeier 19:00-01:00, Eintritt 12 €€",
+                "lat": "52,513828",
+                "lng": "13,39235"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.37365,
+                52.51039
+            ]
+        },
+        "properties": {
+            "title": "57",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/57",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/57\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/57",
+            "data": {
+                "id": "57",
+                "bezirk": "Mitte",
+                "name": "Fabelhafte Weihnachten im Sony Center am Potsdamer Platz",
+                "strasse": "Bellevuestr. 5",
+                "plz_ort": "10785 Berlin",
+                "veranstalter": "Forum Event Management GmbH\r\nTel.: 25 75 16 01, Fax: 25 75 16 40",
+                "von": "2016-11-26",
+                "bis": "2017-01-01",
+                "oeffnungszeiten": "\r\nDo, Fr, Sa 14:00-22:00, 24.12. geschlossen",
+                "email": "mailto:event.berlin@forum-event.de",
+                "w3": "www.sonycenter.de",
+                "bemerkungen": "Wunderschöne Lichtkunst, fabelhafte Wesen und tägliche Live-Shows mit einer zauberhaften Fee verwandeln das Sony-Center in einen magischen Ort",
+                "lat": "52,51039",
+                "lng": "13,37365"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.339548,
+                52.525892
+            ]
+        },
+        "properties": {
+            "title": "59",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/59",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/59\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/59",
+            "data": {
+                "id": "59",
+                "bezirk": "Mitte",
+                "name": "Adventsbasar vor der Heilandskirche Moabit",
+                "strasse": "Thusnelda-Allee 1",
+                "plz_ort": "10555 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Tiergarten, Alt-Moabit 25, 10559 Berlin, Zentralküsterei Tel.: 394 34 98",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "10:00-15:00",
+                "email": "mailto:kuesterei@ev-gemeinde-tiergarten.de",
+                "w3": "www.ev-gemeinde-tiergarten.de",
+                "bemerkungen": "\r\nEintritt frei",
+                "lat": "52,525892",
+                "lng": "13,339548"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.400861,
+                52.525647
+            ]
+        },
+        "properties": {
+            "title": "61",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/61",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/61\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/61",
+            "data": {
+                "id": "61",
+                "bezirk": "Mitte",
+                "name": "21. Umwelt- und Weihnachtsmarkt 2016 in der Sophienstraße",
+                "strasse": "Sophienstraße",
+                "plz_ort": "10178 Berlin",
+                "veranstalter": "EVENTS - Ralf Bielefeldt, Zehdenicker Str. 14, 10119 Berlin,\r\nTel.: 48 49 62 27 und 0177/688 22 45,\r\nFax: 32 51 98 53",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "Sa 12:00-20:00\r\nSo 11:00-19:00",
+                "email": "mailto:post@weihnachtsmarkt-sophienstrasse.de",
+                "w3": "www.weihnachtsmarkt-sophienstrasse.de",
+                "bemerkungen": "jeweils an den Adventswochenenden 2016",
+                "lat": "52,525647",
+                "lng": "13,400861"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.408712,
+                52.516975
+            ]
+        },
+        "properties": {
+            "title": "147",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/147",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/147\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/147",
+            "data": {
+                "id": "147",
+                "bezirk": "Mitte",
+                "name": "Winterfilmfestival an der Feuerzangenbowle",
+                "strasse": "Nikolaiviertel",
+                "plz_ort": "10178 Berlin",
+                "veranstalter": "Nikolaiviertel e. V. in Kooperation mit Zander & Partner Event-Marketing GmbH, Tel.: 31 86 01 13/4/5, Fax: 31 50 97 48",
+                "von": "2016-11-21",
+                "bis": "2017-01-01",
+                "oeffnungszeiten": "Mo-Do 12:00-21:00\nFr 12:00-22:30\nSa. 11:00-22:30\nSo 11:00-21:00",
+                "email": "mailto:info@zander-partner.de",
+                "w3": "www.blog.zander-partner.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,516975",
+                "lng": "13,408712"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.385747,
+                52.519978
+            ]
+        },
+        "properties": {
+            "title": "161",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/161",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/161\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/161",
+            "data": {
+                "id": "161",
+                "bezirk": "Mitte",
+                "name": "Weihnachtsmarkt Friedrichstraße Berlin",
+                "strasse": "Dorothea Schlegel Platz",
+                "plz_ort": "10117 Berlin",
+                "veranstalter": "BerlinZauber Veranstaltungsgesellschaft mbH, Erik Russ, Chausseestr. 28, 10115 Berlin, Tel.: 20 91 26 31",
+                "von": "2016-11-25",
+                "bis": "2016-12-26",
+                "oeffnungszeiten": "So-Do 11:00-21:00\nFr-Sa 11:00-22:00",
+                "email": "office@berlinzauber.de",
+                "w3": "www.berlinzauber.de",
+                "bemerkungen": "",
+                "lat": "52,519978",
+                "lng": "13,385747"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.3954522,
+                52.5155073
+            ]
+        },
+        "properties": {
+            "title": "163",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/163",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/163\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/163",
+            "data": {
+                "id": "163",
+                "bezirk": "Mitte",
+                "name": "25. Nostalgischer Weihnachtsmarkt Opernpalais Berlin",
+                "strasse": "Hinter der Katholischen Kirche",
+                "plz_ort": "10117 Berlin",
+                "veranstalter": "Nostalgischer Weihnachtsmarkt Joseph Nieke, Tel.: 20 25 35 80 und 0151/15 10 92 20",
+                "von": "2016-11-24",
+                "bis": "2016-12-26",
+                "oeffnungszeiten": "Mo-So 12:00-21:30\n24.12. geschlossen\n25.12./26.12.: 12:00-21:00",
+                "email": "info@berliner-weihnacht.de",
+                "w3": "www.berliner-weihnacht.de",
+                "bemerkungen": "www.joseph-nieke.de",
+                "lat": "52,5155073",
+                "lng": "13,3954522"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.43781,
+                52.44696
+            ]
+        },
+        "properties": {
+            "title": "63",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/63",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/63\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/63",
+            "data": {
+                "id": "63",
+                "bezirk": "Neukölln",
+                "name": "Nordische Märchenweihnacht - Weihnachtsmarkt auf dem Gutshof Schloss Britz",
+                "strasse": "Alt-Britz 73",
+                "plz_ort": "12359 Berlin",
+                "veranstalter": "Kulturstiftung Schloss Britz\r\nTel.: 609 79 23-0, Fax: 609 79 23 39",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "Fr 14:00-21:00\r\nSa 11:00-21:00\r\nSo 11:00-21:00",
+                "email": "mailto:info@schlossbritz.de",
+                "w3": "www.schlossbritz.de",
+                "bemerkungen": "Eintritt 3 €, ermäßigt 2 €, Kinder unter 6 Jahren und Anwohner frei",
+                "lat": "52,44696",
+                "lng": "13,43781"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.433156,
+                52.422879
+            ]
+        },
+        "properties": {
+            "title": "65",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/65",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/65\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/65",
+            "data": {
+                "id": "65",
+                "bezirk": "Neukölln",
+                "name": "29. Alt-Buckower Adventsmarkt",
+                "strasse": "Nebenstraße Alt-Buckow 2-38",
+                "plz_ort": "12349 Berlin",
+                "veranstalter": "AG \"Das Sympathische Buckow e. V.\" und die\r\nEvangelische Kirchengemeinde Alt-Buckow,\r\nAnsprechpartner für die Organisation: Christian Rieth\r\nTel.: 0179/394 55 14, Fax: 34 35 98 73",
+                "von": "2016-11-26",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "Sa 13:00-20:00\r\nSo 11:00-19:00",
+                "email": "mailto:post@advents-markt.de",
+                "w3": "www.advents-markt.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,422879",
+                "lng": "13,433156"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.430844,
+                52.421877
+            ]
+        },
+        "properties": {
+            "title": "67",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/67",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/67\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/67",
+            "data": {
+                "id": "67",
+                "bezirk": "Neukölln",
+                "name": "Adventsmarkt der Evangelischen Kirchengemeinde Alt-Buckow an der Dorfkirche Alt-Buckow",
+                "strasse": "Alt-Buckow 34",
+                "plz_ort": "12349 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Alt-Buckow, Tel.: 604 10 10, Fax: 605 19 06",
+                "von": "2016-11-26",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "Sa 14:00-20:00\r\nSo 13:00-19:00",
+                "email": "mailto:buero@dorfkirche-alt-buckow.de",
+                "w3": "www.dorfkirche.de",
+                "bemerkungen": "So ab 11:00 Kaffeestube, 13:00 Adventsmarkt",
+                "lat": "52,421877",
+                "lng": "13,430844"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.43695,
+                52.44827
+            ]
+        },
+        "properties": {
+            "title": "69",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/69",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/69\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/69",
+            "data": {
+                "id": "69",
+                "bezirk": "Neukölln",
+                "name": "Adventsmarkt an der Britzer Dorfkirche ",
+                "strasse": "Backbergstr. 38 ",
+                "plz_ort": "12359 Berlin",
+                "veranstalter": "Evangelische Dorfkirchengemeinde Berlin-Britz \r\nTel.: 606 29 12, Fax: 63 41 39 00",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "11:00-18:00",
+                "email": "mailto:dorfkirchebritz@t-online.de",
+                "w3": "www.dorfkirchebritz.de",
+                "bemerkungen": "10:00 Festlicher Gottesdienst zum 1. Advent",
+                "lat": "52,44827",
+                "lng": "13,43695"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.44528,
+                52.474158
+            ]
+        },
+        "properties": {
+            "title": "71",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/71",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/71\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/71",
+            "data": {
+                "id": "71",
+                "bezirk": "Neukölln",
+                "name": "44. Alt-Rixdorfer Weihnachtsmarkt",
+                "strasse": "Richardplatz",
+                "plz_ort": "12055 Berlin",
+                "veranstalter": "BA Neukölln\r\nChristian Bärmann\r\nTel.: 902 39 25 53,\r\nFax.: 902 39 44 10",
+                "von": "2016-12-02",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "Fr 17:00-21:00\r\nSa 14:00-21:00\r\nSo 14:00-20:00",
+                "email": "",
+                "w3": "http://www.berlin.de/ba-neukoelln/ueber-den-bezirk/alt-rixdorfer-weihnachtsmarkt/",
+                "bemerkungen": "",
+                "lat": "52,474158",
+                "lng": "13,44528"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.4494779,
+                52.44426
+            ]
+        },
+        "properties": {
+            "title": "159",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/159",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/159\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/159",
+            "data": {
+                "id": "159",
+                "bezirk": "Neukölln",
+                "name": "Britzer Weihnachtsmarkt\nMarktplatz Britz Süd",
+                "strasse": "Fritz-Reuter-Allee 12359",
+                "plz_ort": "12359 Berlin",
+                "veranstalter": "Jüttner Entertainment Christian Jüttner, Tel.: 52 64 66 89 und 0152/33 90 83 98, Fax: 52 64 66 90",
+                "von": "2016-12-09",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "",
+                "email": "info@juettner-entertainment.de",
+                "w3": "www.juettner-entertainment.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,44426",
+                "lng": "13,4494779"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.41442,
+                52.540507
+            ]
+        },
+        "properties": {
+            "title": "73",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/73",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/73\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/73",
+            "data": {
+                "id": "73",
+                "bezirk": "Pankow",
+                "name": "Lucia Weihnachtsmarkt in der Kulturbrauerei in Prenzlauer Berg",
+                "strasse": "Schönhauser Allee 36-39",
+                "plz_ort": "10435 Berlin",
+                "veranstalter": "Ketering GmbH (Veranstalter, Vermietung)\r\nTel.: 44 31 07 37,\r\nFax: 25 74 85 50\r\nPresse-Marketing-Programm:\r\nFête Company\r\nTel.: 449 25 94",
+                "von": "2016-11-21",
+                "bis": "2016-12-22",
+                "oeffnungszeiten": "Mo-Fr 15:00-22:00\r\nSa-So 13:00-22:00",
+                "email": "mailto:jul@lucia-weihnachtsmarkt.de",
+                "w3": "www.lucia-weihnachtsmarkt.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,540507",
+                "lng": "13,41442"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.417079,
+                52.536404
+            ]
+        },
+        "properties": {
+            "title": "75",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/75",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/75\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/75",
+            "data": {
+                "id": "75",
+                "bezirk": "Pankow",
+                "name": "Adventsökomarkt und Ökomarkt der GRÜNEN LIGA am Kollwitzplatz",
+                "strasse": "Wörther Straße",
+                "plz_ort": "10405 Berlin",
+                "veranstalter": "GRÜNE LIGA BERLIN\r\ne. V., E. Westphal/C. Kapfer,\r\nPrenzlauer Allee 8, 10405 Berlin\r\nTel.: 44 33 91 48, Fax: 44 33 91 33",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "12:00-19:00",
+                "email": "mailto:oekomarkt.kollwitzplatz@grueneliga.de",
+                "w3": "www.grueneliga-berlin.de",
+                "bemerkungen": "NUR an den Adventssonntagen, Kollwitz- bis Knaackstraße",
+                "lat": "52,536404",
+                "lng": "13,417079"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.388773,
+                52.569076
+            ]
+        },
+        "properties": {
+            "title": "77",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/77",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/77\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/77",
+            "data": {
+                "id": "77",
+                "bezirk": "Pankow",
+                "name": "Nikolausmarkt auf dem Kinderbauernhof Pinkepanke am S-Bhf. Wollankstraße ",
+                "strasse": "Am Bürgerpark 15-18",
+                "plz_ort": "13156 Berlin",
+                "veranstalter": "Frau Rose\r\nTel.: 0177/464 16 75",
+                "von": "2016-12-04",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "14:00-18:00",
+                "email": "",
+                "w3": "www.kinderbauernhof-pinke-panke.de/",
+                "bemerkungen": "keine Standvermietung!\r",
+                "lat": "52,569076",
+                "lng": "13,388773"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.327618,
+                52.563043
+            ]
+        },
+        "properties": {
+            "title": "79",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/79",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/79\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/79",
+            "data": {
+                "id": "79",
+                "bezirk": "Reinickendorf",
+                "name": "Weihnachtsmarkt im EKZ \"Der Clou\" - Weihnachtsaktion im Einkaufszentrum \"Der Clou\"",
+                "strasse": "Kurt-Schumacher-Platz",
+                "plz_ort": "13405 Berlin",
+                "veranstalter": "Center-Management des Einkaufszentrums \"Der Clou\"\r\nTel.: 49 87 20 96, Fax: 495 27 63",
+                "von": "2015-11-16",
+                "bis": "2015-12-24",
+                "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n06./20.12. 13:00-18:00\r\n24.12. 10:00-14:00                    ",
+                "email": "mailto:info@derclouberlin.de",
+                "w3": "www.derclouberlin.de",
+                "bemerkungen": "",
+                "lat": "52,563043",
+                "lng": "13,327618"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.285817,
+                52.584894
+            ]
+        },
+        "properties": {
+            "title": "81",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/81",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/81\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/81",
+            "data": {
+                "id": "81",
+                "bezirk": "Reinickendorf",
+                "name": "Mieter-Weihnachtsfachmarkt in den Hallen Am Borsigturm",
+                "strasse": "Am Borsigturm 2",
+                "plz_ort": "13507 Berlin ",
+                "veranstalter": "Center Manager: Christian Frauenstein, Werbegemeinschaft Hallen am Borsigturm\r\nTel.: 436 54 46 00",
+                "von": "2016-11-21",
+                "bis": "2016-12-24",
+                "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n04./18.12. 13:00-18:00\r\n24.12. 10:00-14:00",
+                "email": "mailto:info@hallenamborsigturm.de",
+                "w3": "www.hallenamborsigturm.de",
+                "bemerkungen": "Einkaufscenter",
+                "lat": "52,584894",
+                "lng": "13,285817"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.289572,
+                52.63313
+            ]
+        },
+        "properties": {
+            "title": "83",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/83",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/83\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/83",
+            "data": {
+                "id": "83",
+                "bezirk": "Reinickendorf",
+                "name": "XIV. Kunsthandwerklicher Weihnachtsmarkt Frohnau",
+                "strasse": "Zeltinger Platz ",
+                "plz_ort": "13465 Berlin",
+                "veranstalter": "Interessengemeinschaft Frohnauer Geschäfte - IFG\r\nKontakt/Organisation: KUNSTHAND-BERLIN\r\nCornelja Hasler\r\nTel.: 40 63 70 31, 0173/216 66 88,\r\nFax: 401 74 40",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "11:00-18:00",
+                "email": "mailto:info@kunsthand-berlin.de",
+                "w3": "www.kunsthand-berlin.de",
+                "bemerkungen": "und Ludolfingerplatz",
+                "lat": "52,63313",
+                "lng": "13,289572"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.329694,
+                52.592455
+            ]
+        },
+        "properties": {
+            "title": "85",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/85",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/85\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/85",
+            "data": {
+                "id": "85",
+                "bezirk": "Reinickendorf",
+                "name": "Adventsmarkt der Evangelischen Kirchengemeinde Alt-Wittenau",
+                "strasse": "Alt-Wittenau 29",
+                "plz_ort": "13437 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Alt-Wittenau, Gemeindebüro: Alt-Wittenau 29\r\nTel.: 43 72 12 62, Fax: 43 72 12 66",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "14:00-17:30",
+                "email": "mailto:info@dorfkirchewittenau.de",
+                "w3": "www.dorfkirchewittenau.de",
+                "bemerkungen": "Dorfaue",
+                "lat": "52,592455",
+                "lng": "13,329694"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.29209,
+                52.63414
+            ]
+        },
+        "properties": {
+            "title": "87",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/87",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/87\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/87",
+            "data": {
+                "id": "87",
+                "bezirk": "Reinickendorf",
+                "name": "Weihnachtsmarkt vor der Johanneskirche Frohnau",
+                "strasse": "Zeltinger Platz 18",
+                "plz_ort": "13465 Berlin",
+                "veranstalter": "Johanneskirche Frohnau\r\nTel.: 401 20 33, Fax: 401 20 79",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "14:00-18:00",
+                "email": "mailto:post@ekg-frohnau.de",
+                "w3": "www.ekg-frohnau.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,63414",
+                "lng": "13,29209"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.3569062,
+                52.620439
+            ]
+        },
+        "properties": {
+            "title": "151",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/151",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/151\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/151",
+            "data": {
+                "id": "151",
+                "bezirk": "Reinickendorf",
+                "name": "Adventsbasar der Kirchengemeinde Lübars - vor der Dorfkirche Lübars",
+                "strasse": "Alt-Lübars",
+                "plz_ort": "13469 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Lübars, Zabel-Krüger-Damm 115, 13469 Berlin, Tel.: 402 30 14, Fax: 402 25 05",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "12:00-17:00",
+                "email": "Kirche-luebars@web.de",
+                "w3": "www.222evangelisch.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,620439",
+                "lng": "13,3569062"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.204966,
+                52.537052
+            ]
+        },
+        "properties": {
+            "title": "89",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/89",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/89\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/89",
+            "data": {
+                "id": "89",
+                "bezirk": "Spandau",
+                "name": "43. Spandauer Weihnachtsmarkt in der Spandauer Altstadt",
+                "strasse": "Carl-Schurz-Straße",
+                "plz_ort": "13597 Berlin",
+                "veranstalter": "Partner für Spandau Gesellschaft für Bezirksmarketing mbH\r\nAnsprechpartner: Herr Dettmann\r\nTel.: 36 75 72 61, Fax: 35 30 23 32",
+                "von": "2016-11-23",
+                "bis": "2016-12-23",
+                "oeffnungszeiten": "Mo-Do 11:00-20:00\nFr, Sa 11:00-22:00\nSo 11:00-20:00",
+                "email": "mailto:info@partner-fuer-spandau.de",
+                "w3": "www.spandauer-weihnachtsmarkt.de",
+                "bemerkungen": "in der gesamten Altstadt",
+                "lat": "52,537052",
+                "lng": "13,204966"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.200732,
+                52.535232
+            ]
+        },
+        "properties": {
+            "title": "91",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/91",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/91\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/91",
+            "data": {
+                "id": "91",
+                "bezirk": "Spandau",
+                "name": "46. Spandauer Weihnachtstraum - Kleiner Weihnachtsmarkt auf dem Rathausvorplatz",
+                "strasse": "Carl-Schurz-Str. 2 - 6",
+                "plz_ort": "13597 Berlin",
+                "veranstalter": "Wollenschlaeger, Thilo-Harry\r\nTel.: 0163/400 05 00 und 03322/428 82 45\r\nFax: 03322/423 41 39",
+                "von": "2016-11-23",
+                "bis": "2016-12-27",
+                "oeffnungszeiten": "Mo-Do 11:00-21:00\r\nFr-Sa 11:00-22:00,\nSo 11:00-21:00",
+                "email": "mailto:info@wollenschlaeger-berlin.de",
+                "w3": "www.wollenschlaeger-berlin.de",
+                "bemerkungen": "am 24.12. geschlossen",
+                "lat": "52,535232",
+                "lng": "13,200732"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.191662,
+                52.567834
+            ]
+        },
+        "properties": {
+            "title": "93",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/93",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/93\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/93",
+            "data": {
+                "id": "93",
+                "bezirk": "Spandau",
+                "name": "Weihnachtsmarkt im Evangelischen Johannesstift",
+                "strasse": "Schönwalder Allee 26",
+                "plz_ort": "13587 Berlin",
+                "veranstalter": "Evangelisches Johannesstift\r\nTel.: 33 60 90, Fax: 33 60 95 06",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "12:00-18:00",
+                "email": "mailto:info@Evangelisches-Johannesstift.de",
+                "w3": "www.evangelisches-johannesstift.de",
+                "bemerkungen": "",
+                "lat": "52,567834",
+                "lng": "13,191662"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.193291,
+                52.520905
+            ]
+        },
+        "properties": {
+            "title": "95",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/95",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/95\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/95",
+            "data": {
+                "id": "95",
+                "bezirk": "Spandau",
+                "name": "Sozialer Weihnachtsmarkt von Goldnetz",
+                "strasse": "Földerichplatz",
+                "plz_ort": "13595 Berlin",
+                "veranstalter": "Goldnetz gGmbH\r\nTel.: 28 88 37 77, Fax: 28 88 37 35",
+                "von": "2016-12-03",
+                "bis": "2016-12-03",
+                "oeffnungszeiten": "14:00-18:00",
+                "email": "",
+                "w3": "www.goldnetz-berlin.de",
+                "bemerkungen": "",
+                "lat": "52,520905",
+                "lng": "13,193291"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.148174,
+                52.452567
+            ]
+        },
+        "properties": {
+            "title": "97",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/97",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/97\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/97",
+            "data": {
+                "id": "97",
+                "bezirk": "Spandau",
+                "name": "29. Kladower Christkindlmarkt",
+                "strasse": "Imchenplatz",
+                "plz_ort": "14089 Berlin",
+                "veranstalter": "Cladower Dorf Union e. V., Tel. und Fax: 331 23 22\r\nTel. und Fax: 331 23 22\r",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "12:00-19:00",
+                "email": "",
+                "w3": "www.kladower-christkindlmarkt.de",
+                "bemerkungen": "",
+                "lat": "52,452567",
+                "lng": "13,148174"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.300563,
+                52.455766
+            ]
+        },
+        "properties": {
+            "title": "99",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/99",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/99\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/99",
+            "data": {
+                "id": "99",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Advent in der Königlichen Gartenakademie",
+                "strasse": "Altensteinstr. 15a",
+                "plz_ort": "14195 Berlin",
+                "veranstalter": "Königliche Gartenakademie, Tel.: 83 22 09 00, Fax: 832 20 90 10",
+                "von": "2016-11-18",
+                "bis": "2016-12-23",
+                "oeffnungszeiten": "Di-Sa 11:00-17:30\r\nSo 11:00-16:00",
+                "email": "mailto:info@koenigliche-gartenakademie.de",
+                "w3": "www.koenigliche-gartenakademie.de",
+                "bemerkungen": "Mo. geschlossen",
+                "lat": "52,455766",
+                "lng": "13,300563"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.259371,
+                52.43353
+            ]
+        },
+        "properties": {
+            "title": "101",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/101",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/101\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/101",
+            "data": {
+                "id": "101",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "6. Zehlendorfer Weihnachtsmarkt auf der Dorfaue",
+                "strasse": "Kirchstr. 1 - 3",
+                "plz_ort": "14163 Berlin",
+                "veranstalter": "BA Steglitz-Zehlendorf, Büro des Bezirksbürgermeisters\r\nwww.steglitz-zehlendorf.de\r\nDurchführung: Schausteller- und Gastronomiebetriebe Laurence Blume\r\nTel.: 0151/24 11 78 50,\r\nFax: 815 20 85\r\nlb@blume-events.de",
+                "von": "2016-11-21",
+                "bis": "2016-12-30",
+                "oeffnungszeiten": "So-Do 11:00-21:00\r\nFr-Sa 11:00-22:00\r\n24.12.: 11:00-16:00\r\n25.12./26.12.: 13:00-20:00\r\n",
+                "email": "mailto:laurenceblume@web.de",
+                "w3": "www.blume-events.de",
+                "bemerkungen": "Teltower Damm, am Rathaus Zehlendorf",
+                "lat": "52,43353",
+                "lng": "13,259371"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.3272,
+                52.46422
+            ]
+        },
+        "properties": {
+            "title": "103",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/103",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/103\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/103",
+            "data": {
+                "id": "103",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Steglitzer Weihnachtsmarkt vor dem Forum Steglitz",
+                "strasse": "Schloßstr. 1",
+                "plz_ort": "12163 Berlin",
+                "veranstalter": "Schausteller- und Gastronomiebetriebe Laurence Blume\r\nTel.: 0151/24 11 78 50,\r\nFax: 815 20 85\r\nlb@blume-events.de",
+                "von": "2016-11-21",
+                "bis": "2017-01-07",
+                "oeffnungszeiten": "täglich 10:30-21:00\r\nSo 10:30-20:00\r\n24.12.: 10:30-16:00\r\n25./26.12.: 10:30-20:00",
+                "email": "mailto:laurenceblume@web.de",
+                "w3": "www.blume-events.de",
+                "bemerkungen": "",
+                "lat": "52,46422",
+                "lng": "13,3272"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.28866,
+                52.45842
+            ]
+        },
+        "properties": {
+            "title": "105",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/105",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/105\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/105",
+            "data": {
+                "id": "105",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Adventsmarkt auf der Domäne Dahlem",
+                "strasse": "Königin-Luise-Str. 49",
+                "plz_ort": "14195 Berlin",
+                "veranstalter": "Domäne Dahlem Veranstaltungsgesellschaft mbH\r\nTel.: 66 63 00 10,\r\nFax: 66 63 00 20",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "11:00-19:00",
+                "email": "mailto:kontakt@domaene-dahlem.de",
+                "w3": "www.domaene-dahlem.de",
+                "bemerkungen": "NUR an den Adventswochenenden",
+                "lat": "52,45842",
+                "lng": "13,28866"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.328123,
+                52.428165
+            ]
+        },
+        "properties": {
+            "title": "107",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/107",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/107\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/107",
+            "data": {
+                "id": "107",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Weihnachtsmarkt auf dem Ferdinandmarkt",
+                "strasse": "Ferdinandstr. 34-35",
+                "plz_ort": "12209 Berlin",
+                "veranstalter": "Müller-Degenhardt & Degenhardt Marktstandvermietung GbR\r\nTel.: 824 20 45, Fax: 824 20 47",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "11:00-19:00",
+                "email": "mailto:info@gv-degenhardt.de",
+                "w3": "www.gv-degenhardt.de",
+                "bemerkungen": "",
+                "lat": "52,428165",
+                "lng": "13,328123"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.232588,
+                52.437584
+            ]
+        },
+        "properties": {
+            "title": "109",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/109",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/109\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/109",
+            "data": {
+                "id": "109",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Advent-Künstlerstation am Bahnhof Mexikoplatz",
+                "strasse": "Mexikoplatz",
+                "plz_ort": "14163 Berlin",
+                "veranstalter": "Martin, Ramona, Tel.: 802 87 79",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "11:00-19:00",
+                "email": "",
+                "w3": "",
+                "bemerkungen": "NUR an den Adventssonntagen",
+                "lat": "52,437584",
+                "lng": "13,232588"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.261708,
+                52.467266
+            ]
+        },
+        "properties": {
+            "title": "111",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/111",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/111\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/111",
+            "data": {
+                "id": "111",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Märchenhafter Weihnachtsmarkt im Grunewald",
+                "strasse": "Hüttenweg 100 ",
+                "plz_ort": "14193 Berlin",
+                "veranstalter": "Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg, Abt. Schlossmanagement\r\nKontakt: Jagdschloss Grunewald\r\nTel.: 813 35 97\r\n",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "11:00-19:00",
+                "email": "mailto:schloss-grunewald@spsg.de",
+                "w3": "www.spsg.de",
+                "bemerkungen": "Eintritt 3 €/ 2 € erm., Kinder unter 6 Jahren haben freien Eintritt, am Grunewaldsee, Jagdschloss Grunewald",
+                "lat": "52,467266",
+                "lng": "13,261708"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.150609,
+                52.41781
+            ]
+        },
+        "properties": {
+            "title": "113",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/113",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/113\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/113",
+            "data": {
+                "id": "113",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Adventsbasar im Gemeindehaus St. Michael",
+                "strasse": "Hohenzollernstr. 28",
+                "plz_ort": "14109 Berlin",
+                "veranstalter": "Katholische Kirchengemeinde Zu den hl. Zwölf Aposteln Berlin\r\nTel.: 805 86 29 70",
+                "von": "2016-11-19",
+                "bis": "2016-11-20",
+                "oeffnungszeiten": "Sa 15:00-19:30\r\nSo 09:30-15:00",
+                "email": "mailto:pfarrbuero@hl-12-apostel.de",
+                "w3": "www.hl-12-apostel.de",
+                "bemerkungen": "",
+                "lat": "52,41781",
+                "lng": "13,150609"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.20455,
+                52.425202
+            ]
+        },
+        "properties": {
+            "title": "115",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/115",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/115\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/115",
+            "data": {
+                "id": "115",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Großer Adventsbasar im Gemeindehaus",
+                "strasse": "Kirchweg 6",
+                "plz_ort": "14129 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Nikolassee \r\nTel.: 80 19 76 30",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "11:00-16:00",
+                "email": "mailto:webmaster@gemeinde-nikolassee.de",
+                "w3": "www.gemeinde-nikolassee.de",
+                "bemerkungen": "",
+                "lat": "52,425202",
+                "lng": "13,20455"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.141813,
+                52.412281
+            ]
+        },
+        "properties": {
+            "title": "117",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/117",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/117\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/117",
+            "data": {
+                "id": "117",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Weihnachtsmarkt der Wilhelmplatz-Initiative und der Ev. Kirchengemeinde Wannsee an der Kirche am Stölpchensee",
+                "strasse": "Wilhelmplatz",
+                "plz_ort": "14109 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Berlin-Wannsee\r\nTel.: 805 16 50",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "14:00-19:00",
+                "email": "mailto:KGWannsee@freenet.de",
+                "w3": "www.wannseebote.ekbo.de",
+                "bemerkungen": "",
+                "lat": "52,412281",
+                "lng": "13,141813"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.25836,
+                52.42718
+            ]
+        },
+        "properties": {
+            "title": "119",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/119",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/119\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/119",
+            "data": {
+                "id": "119",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Das Weihnachtshaus in der Villa Donnersmarck",
+                "strasse": "Schädestr. 9-13",
+                "plz_ort": "14165 Berlin",
+                "veranstalter": "Villa Donnersmarck/Fürst-Donnersmarck-Stiftung\r\nTel.: 84 71 87 0, Fax: 84 71 87 23",
+                "von": "2016-12-11",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "15:00-19:00",
+                "email": "mailto:villadonnersmarck@fdst.de",
+                "w3": "www.villadonnersmarck.de",
+                "bemerkungen": "Eintritt frei",
+                "lat": "52,42718",
+                "lng": "13,25836"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.23499,
+                52.42483
+            ]
+        },
+        "properties": {
+            "title": "153",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/153",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/153\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/153",
+            "data": {
+                "id": "153",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "Adventsmarkt - Lichterfest im Museumsdorf Düppel",
+                "strasse": "Clauertstr. 11",
+                "plz_ort": "14163 Berlin",
+                "veranstalter": "Museumsdorf Düppel, Tel.: 802 66 71",
+                "von": "2016-12-10",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "12:00-21:00",
+                "email": "info@dueppel.de",
+                "w3": "www.dueppel.de",
+                "bemerkungen": "Historischer Dorfplatz im Museumsdorf Düppel, Eintritt 2 €, Kinder unter 12 Jahren frei",
+                "lat": "52,42483",
+                "lng": "13,23499"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.25603,
+                52.46645
+            ]
+        },
+        "properties": {
+            "title": "157",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/157",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/157\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/157",
+            "data": {
+                "id": "157",
+                "bezirk": "Steglitz-Zehlendorf",
+                "name": "5. Berliner Hundeweihnachtsmarkt - Paulsborn am Grunewaldsee",
+                "strasse": "Hüttenweg 90",
+                "plz_ort": "14193 Berlin",
+                "veranstalter": "Dagmar Liepe, SIRIUS HUNDESTERN, Tel.: 88 70 90 02, Fax: 88 00 16 35",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "",
+                "email": "info@allyanddotty.de",
+                "w3": "http://www.allyanddotty.de",
+                "bemerkungen": "",
+                "lat": "52,46645",
+                "lng": "13,25603"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.358147,
+                52.459078
+            ]
+        },
+        "properties": {
+            "title": "121",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/121",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/121\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/121",
+            "data": {
+                "id": "121",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "Adventsmarkt in der Lokhalle im Natur-Park Schöneberger Südgelände, Hauptzugang: S-Bahnhof Priesterweg",
+                "strasse": "Prellerweg 47 - 49",
+                "plz_ort": "12157 Berlin",
+                "veranstalter": "Grün Berlin GmbH\r\nTel.: 70 09 06 24, Fax: 700 90 69 24",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "12:00-18:00",
+                "email": "mailto:info@suedgelaende.de",
+                "w3": "www.gruen-berlin.de",
+                "bemerkungen": "Unter dem schützenden Dach der Lokhalle findet jedes Jahr am 1. und 2. Advent von 12-18 Uhr der Adventsmarkt statt. Über 40 Händler an ihren Ständen können ihre ausgefallenen und vor allem selbst gefertigten Artikel anbieten",
+                "lat": "52,459078",
+                "lng": "13,358147"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.366999,
+                52.411971
+            ]
+        },
+        "properties": {
+            "title": "123",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/123",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/123\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/123",
+            "data": {
+                "id": "123",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "22. Weihnachtsmarkt auf Lehmanns Bauernhof am Zweiten Advent",
+                "strasse": "Alt-Marienfelde 35-37",
+                "plz_ort": "12277 Berlin",
+                "veranstalter": "Lehmanns Bauernhof\nTel.: 72 01 41 50, 0179/958 05 15,\r\nFax: 72 01 41 49",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "Fr 14:00-20:00\r\nSa-So 12:00-20:00",
+                "email": "mailto:Lehmanns-Bauernmarkt@gmx.de",
+                "w3": "www.lehmanns-bauernmarkt.de",
+                "bemerkungen": "jeweils Freitag bis Sonntag",
+                "lat": "52,411971",
+                "lng": "13,366999"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.399936,
+                52.40523
+            ]
+        },
+        "properties": {
+            "title": "125",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/125",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/125\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/125",
+            "data": {
+                "id": "125",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "40. Lichtenrader Lichtermarkt - Alt-Lichtenrade, rund um den Dorfteich (Giebel-Pfuhl)",
+                "strasse": "Alt-Lichtenrade",
+                "plz_ort": "12305 Berlin",
+                "veranstalter": "BA Tempelhof-Schöneberg\r\nAnsprechpartnerin: Frau Barnekow\r\nTel.: 902 77 23 01,\r\nFax: 902 77 22 20       ",
+                "von": "2016-11-27",
+                "bis": "2016-11-27",
+                "oeffnungszeiten": "13:00-19:00",
+                "email": "",
+                "w3": "www.berlin.de/ba-tempelhof-schoeneberg/aktuelles/pressemitteilungen/2015/pressemitteilung.414129.php",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,40523",
+                "lng": "13,399936"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.36764,
+                52.41275
+            ]
+        },
+        "properties": {
+            "title": "127",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/127",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/127\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/127",
+            "data": {
+                "id": "127",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "32. Marienfelder Weihnachtsmarkt des TSV Marienfelde 1890 e. V. in der Alten Feuerwache",
+                "strasse": "Alt-Marienfelde 36",
+                "plz_ort": "12277 Berlin",
+                "veranstalter": "TSV Marienfelde 1890 e. V.\r\nTel.: 722 45 46, Fax: 74 30 59 65",
+                "von": "2016-12-03",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "12:00-19:00",
+                "email": "mailto:sport@tsv-marienfelde.de",
+                "w3": "www.tsv-marienfelde.de",
+                "bemerkungen": "mit Beteiligung der\r\nMarienfelder Kyffhäuser",
+                "lat": "52,41275",
+                "lng": "13,36764"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.335556,
+                52.472222
+            ]
+        },
+        "properties": {
+            "title": "129",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/129",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/129\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/129",
+            "data": {
+                "id": "129",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "10. Friedenauer Engelmarkt am Rathaus Friedenau",
+                "strasse": "Breslauer Platz ",
+                "plz_ort": "12159 Berlin",
+                "veranstalter": "Friedenau-Netzwerk\r\nMagrit Knapp\r\nTel.: 852 33 56",
+                "von": "2016-12-04",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "13:00-18:00",
+                "email": "mailto:Magrit.knapp@friedenau-netzwerk.de",
+                "w3": "www.friedenau-netzwerk.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,472222",
+                "lng": "13,335556"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.347901,
+                52.41293
+            ]
+        },
+        "properties": {
+            "title": "131",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/131",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/131\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/131",
+            "data": {
+                "id": "131",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "Weihnachtsmarkt \"Rund um die Dorfkirche\" - an der Dorfkirche Marienfelde",
+                "strasse": "Alt-Marienfelde",
+                "plz_ort": "12277 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Marienfelde, Tel.: 75 51 22 00, Fax: 755 12 20 10",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "Fr 14:00-20:00\nSa, So 12:00-20:00",
+                "email": "weihnachtsmarkt@marienfelde-evangelisch.de",
+                "w3": "www.marienfelde-evangelisch.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,41293",
+                "lng": "13,347901"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.402335,
+                52.386675
+            ]
+        },
+        "properties": {
+            "title": "133",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/133",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/133\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/133",
+            "data": {
+                "id": "133",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "Lichtenrader Weihnachtsmarkt",
+                "strasse": "Bahnhofstraße",
+                "plz_ort": "12307 Berlin",
+                "veranstalter": "Jüttner Entertainment Christian Jüttner, Tel.: 52 64 66 89 und 0152/33 90 83 98, Fax: 52 64 66 90",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "Sa 12:00-22:00\nSo 12:00-20:00",
+                "email": "mailto:info@juettner-entertainment.de",
+                "w3": "www.juettner-entertainment.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,386675",
+                "lng": "13,402335"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.345071,
+                52.466701
+            ]
+        },
+        "properties": {
+            "title": "149",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/149",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/149\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/149",
+            "data": {
+                "id": "149",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "Adventsbasar des Kinderhile e. V. - Philippus-Nathanael-Gemeindehaus",
+                "strasse": "Grazer Platz 4",
+                "plz_ort": "12157 Berlin",
+                "veranstalter": "Kinderhilfe e. V., Tel.: 857 47 83 60, Fax: 27 49 82 98",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "10:00-17:00",
+                "email": "mailto:info@kinderhilfe-ev.de",
+                "w3": "www.kinderhilfe-ev.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,466701",
+                "lng": "13,345071"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.41147,
+                52.39058
+            ]
+        },
+        "properties": {
+            "title": "155",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/155",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/155\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/155",
+            "data": {
+                "id": "155",
+                "bezirk": "Tempelhof-Schöneberg",
+                "name": "Weihnachten in Lichtenrade am idyllisch gelegenen Dorfteich Alt-Lichtenrade",
+                "strasse": "Alt-Lichtenrade",
+                "plz_ort": "12309 Berlin",
+                "veranstalter": "Family & Friends e. V.\r\nTel. und Fax: 305 55 21",
+                "von": "2016-12-10",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "11:00-20:00",
+                "email": "kontakt@family-and-friends-eV.de",
+                "w3": "www.family-and-friends-eV.de",
+                "bemerkungen": "kunsthandwerklicher Weihnachtsmarkt mit weihnachtlichen Spezialitäten",
+                "lat": "52,39058",
+                "lng": "13,41147"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.47371,
+                52.45434
+            ]
+        },
+        "properties": {
+            "title": "135",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/135",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/135\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/135",
+            "data": {
+                "id": "135",
+                "bezirk": "Treptow-Köpenick",
+                "name": "Weihnachtsmarkt in den Späth'schen Baumschulen\r\nLichterglanz im Tannenwald - präsentiert von radioBERLIN 88,8",
+                "strasse": "Späthstr. 80/81",
+                "plz_ort": "12437 Berlin",
+                "veranstalter": "Späth'sche Baumschulen Handel GmbH\r\nTel.: 63  90 03 32",
+                "von": "0000-00-00",
+                "bis": "0000-00-00",
+                "oeffnungszeiten": "11:00-20:00",
+                "email": "mailto:info@spaethsche-baumschulen.de",
+                "w3": "www.spaethsche-baumschulen.de",
+                "bemerkungen": "Eintritt 3 €, Kinder bis 16 Jahre frei. Die Späth'schen Baumschulen spenden einen Teil des Eintrittsgeldes an eine gemeinnützige Einrichtung in Treptow-Köpenick",
+                "lat": "52,45434",
+                "lng": "13,47371"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.574498,
+                52.444676
+            ]
+        },
+        "properties": {
+            "title": "137",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/137",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/137\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/137",
+            "data": {
+                "id": "137",
+                "bezirk": "Treptow-Köpenick",
+                "name": "Köpenick, die Weihnachtsinsel - Schlossinsel Köpenick, Schlossplatz Köpenick",
+                "strasse": "Grünstraße",
+                "plz_ort": "12555 Berlin",
+                "veranstalter": "Bezirksamt Treptow-Köpenick von Berlin\r\nTel.: 902 97 27 60, Fax: 902 97 28 50, Herr Lemaitre, Tel.: 0173/617 25 51, Fax: 61 67 40 09",
+                "von": "2016-12-09",
+                "bis": "2016-12-11",
+                "oeffnungszeiten": "Fr 14:00-21:00\r\nSa 12:00-21:00\r\nSo 12:00-20:00",
+                "email": "mailto:veranstaltungen@ba-tk.berlin.de",
+                "w3": "www.berlin.de/ba-treptow-koepenick/aktuelles/veranstaltungen/weihnachten/koepenick-die-weihnachtsinsel-228643.php",
+                "bemerkungen": "",
+                "lat": "52,444676",
+                "lng": "13,574498"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.624878,
+                52.451915
+            ]
+        },
+        "properties": {
+            "title": "139",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/139",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/139\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/139",
+            "data": {
+                "id": "139",
+                "bezirk": "Treptow-Köpenick",
+                "name": "Weihnachtsmarkt Friedrichshagen Bölschestraße",
+                "strasse": "Marktplatz Bölschestraße",
+                "plz_ort": "12587 Berlin",
+                "veranstalter": "Wolfgang Hirche,\r\n15370 Vogelsdorf\r\nTel.: 033439/779 79, 0172/309 49 77,\r\nFax: 033439/779 80",
+                "von": "2016-12-17",
+                "bis": "2016-12-18",
+                "oeffnungszeiten": "Sa 09:00-22:00\r\nSo 11:00-20:00",
+                "email": "mailto:Markt-Hirche@web.de",
+                "w3": "",
+                "bemerkungen": "",
+                "lat": "52,451915",
+                "lng": "13,624878"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.52339,
+                52.46309
+            ]
+        },
+        "properties": {
+            "title": "141",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/141",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/141\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/141",
+            "data": {
+                "id": "141",
+                "bezirk": "Treptow-Köpenick",
+                "name": "Lichtermarkt an der Christuskirche",
+                "strasse": "Firlstr. 16",
+                "plz_ort": "12459 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde Berlin-Oberschöneweide, Tel.: 535 31 55 Ansprechpartner: Herr Noak   \r\nTel.: 97 60 14 17",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "14:00-18:00",
+                "email": "mailto:gemeinde@ev-kirche-oberschoeneweide.de",
+                "w3": "www.ev-kirche-oberschoeneweide.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,46309",
+                "lng": "13,52339"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.662379,
+                52.411639
+            ]
+        },
+        "properties": {
+            "title": "143",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/143",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/143\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/143",
+            "data": {
+                "id": "143",
+                "bezirk": "Treptow-Köpenick",
+                "name": "Müggelheimer Weihnachtsmarkt mit altem Handwerk und Markt - westl. Seite Dorfanger Müggelheim und Dorfklub \"Alte Schule\"",
+                "strasse": "Alt-Müggelheim",
+                "plz_ort": "12559 Berlin",
+                "veranstalter": "Müggelheimer Heimatverein e. V.\r\nTel.: 659 86 13",
+                "von": "2016-11-26",
+                "bis": "2016-11-26",
+                "oeffnungszeiten": "10:00-20:00",
+                "email": "mailto:mueggelheimer-heimatverein@gmx.de",
+                "w3": "www.mueggelheimer-heimatverein.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,411639",
+                "lng": "13,662379"
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.5393,
+                52.42191
+            ]
+        },
+        "properties": {
+            "title": "145",
+            "href": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/145",
+            "description": " <a href=\"http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/145\">Mehr...</a>",
+            "id": "http://www.berlin.de/sen/wirtschaft/service/maerkte-feste/weihnachtsmaerkte/index.php/detail/145",
+            "data": {
+                "id": "145",
+                "bezirk": "Treptow-Köpenick",
+                "name": "7. Altglienicker Advents-Markt - Rund um die Pfarrkirche ",
+                "strasse": "Semmelweisstr. 2",
+                "plz_ort": "12524 Berlin",
+                "veranstalter": "Evangelische Kirchengemeinde\r\nAltglienicke\r\nTel.: 672 83 81 und 0177/338 80 22 (Herr Schmidt) und\r\nBürgerverein Altglienicke e. V.",
+                "von": "2016-12-04",
+                "bis": "2016-12-04",
+                "oeffnungszeiten": "14:00-19:00",
+                "email": "mailto:buergerverein@altglienicke.de\r",
+                "w3": "www.altglienicke.de",
+                "bemerkungen": "Weitere Informationen auf der Webseite",
+                "lat": "52,42191",
+                "lng": "13,5393"
+            }
+        }
+    }]
+}
